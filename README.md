@@ -1,5 +1,5 @@
 # Twitter Scrape
-Scrape Twitter using Tweepy API and store data in CSV file.
+Scrape Twitter data using Tweepy API and store data in CSV file.
 
 ```python
 pip install tweepy
